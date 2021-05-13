@@ -49,7 +49,7 @@
 
 # 💻 Personal Experience & Project
 
-## AutoBot Prject
+### AutoBot Prject
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=AutoBot_OpenSource)](https://github.com/jaeho0613/AutoBot_OpenSource)
 
@@ -57,28 +57,28 @@
 - 유명 게임(League of Legends)의 `유틸리티 프로그램을 제작하여 서비스`했습니다.
 - [개인 블로그](https://jaeho0613.tistory.com/162)에 배포하며 사용자의 피드백을 받으며 진행했습니다.
 
-## Color
+### Color
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=Unity_Color)](https://github.com/jaeho0613/Unity_Color)
 
 - Unity Engine Prject
 - 간단한 2D게임으로 Unity Korea `공모전 출품작`입니다.
 
-## AT_GG
+### AT_GG
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=AT.GG_Project)](https://github.com/jaeho0613/AT.GG_Project)
 
 - SrpingMVC Prject
 - 유명 게임(League of Legends)의 전적 검색 사이트입니다.
 
-## BlackUp
+### BlackUp
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=BlackUp_Clone_Project)](https://github.com/jaeho0613/BlackUp_Clone_Project)
 
 - JSP Project
 - 쇼핑몰 클론 사이트를 제작했습니다.
 
-## CCAMO
+### CCAMO
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=WSVA302_CCAMO)](https://github.com/jaeho0613/WSVA302_CCAMO)
 
