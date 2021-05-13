@@ -55,7 +55,6 @@
 
 - Window Desktop Application Prject
 - 유명 게임(League of Legends)의 `유틸리티 프로그램을 제작하여 서비스`했습니다.
-- `KakaoTalk API, 게임사 API`를 활용하여 만들었습니다.
 - [개인 블로그](https://jaeho0613.tistory.com/162)에 배포하며 사용자의 피드백을 받으며 진행했습니다.
 
 ## Color
@@ -63,8 +62,7 @@
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=Unity_Color)](https://github.com/jaeho0613/Unity_Color)
 
 - Unity Engine Prject
-- Unity Korea `공모전 출품작`입니다.
-- 간단한 2D게임을 제작했습니다.
+- 간단한 2D게임으로 Unity Korea `공모전 출품작`입니다.
 
 ## AT_GG
 
@@ -72,8 +70,6 @@
 
 - SrpingMVC Prject
 - 유명 게임(League of Legends)의 전적 검색 사이트입니다.
-- restAPI 제작, MySQL을 활용하여 데이터를 저장합니다.
-- `게임사 API`를 활용하여 제작했습니다.
 
 ## BlackUp
 
@@ -81,14 +77,23 @@
 
 - JSP Project
 - 쇼핑몰 클론 사이트를 제작했습니다.
-- `KakaoPay를 이용한 결제 기능을 구현`했습니다.
-- 회원가입을 구현했습니다.
-- MySQL DB를 활용하여 데이터를 저장합니다.
 
 ## CCAMO
 
-[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=BlackUp_Clone_Project)](https://github.com/jaeho0613/BlackUp_Clone_Project)
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=jaeho0613&&repo=WSVA302_CCAMO)](https://github.com/jaeho0613/WSVA302_CCAMO)
 
+- Android / Java Project
+- 카페 App를 제작했습니다.
+
+</br>
+
+# 📄 Education
+
+### (디지털컨버전스)자바(JAVA) 안드로이드 웹&앱 개발자과정 수료
+- MVC 프레임 워크 구현
+- Java, Spring, JSP 활용 
+- MySQL, Oracle DB 활용
+- Html, CSS, JS
 
 </br>
 </br>
