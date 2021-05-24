@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=끈질긴%20개발자,%20정재호입니다.&desc=코딩이%20재밌다!&fontSize=50&animation=fadeIn&descAlignY=50&descAlign=80&fontAlignY=35)
-
 # 🙍🏻‍♂️ About Me
-
 
 ## Introduction
 - 안녕하세요! 백엔드 개발자 정재호입니다.
@@ -10,9 +7,21 @@
 - 끈질긴 성격 덕분에 하나에 꽂히면 끝을 보는 성격입니다.
 
 ## Contact & Channel
-- Git : https://github.com/jaeho0613
-- Blog : https://jaeho0613.tistory.com
-- email : ywm2004@gmail.com
+Email : ywm2004@gmail.com
+<div>
+  <a href="https://jaeho0613.tistory.com" target="_blank">
+    <img src=https://img.shields.io/badge/-Tistory-FF5722?logo=blogger&logoColor=white&style=for-the-badge alt=github
+      style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/jaeho0613" target="_blank">
+    <img src=https://img.shields.io/badge/-Github-1b1b1b?logo=github&logoColor=white&style=for-the-badge alt=github
+      style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCWoXMi2OrUK1uGQWc6F0B3w" target="_blank">
+    <img src=https://img.shields.io/badge/-Youtube-ff1414?logo=youtube&logoColor=white&style=for-the-badge alt=github
+      style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 </br>
 
@@ -99,21 +108,5 @@
 </br>
 </br>
 </br>
-
-<div align="center">
-  </a>
-  <a href="https://jaeho0613.tistory.com" target="_blank">
-    <img src=https://img.shields.io/badge/-Tistory-FF5722?logo=blogger&logoColor=white&style=for-the-badge alt=github
-      style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/jaeho0613" target="_blank">
-    <img src=https://img.shields.io/badge/-Github-1b1b1b?logo=github&logoColor=white&style=for-the-badge alt=github
-      style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCWoXMi2OrUK1uGQWc6F0B3w" target="_blank">
-    <img src=https://img.shields.io/badge/-Youtube-ff1414?logo=youtube&logoColor=white&style=for-the-badge alt=github
-      style="margin-bottom: 5px;" />
-  </a>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer)
